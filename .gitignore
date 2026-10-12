@@ -1,0 +1,53 @@
+# Unity regenerates these local caches and build outputs.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+/ServerData/
+/HybridCLRData/
+/MacSidecarsBackup/
+
+# Local version-control and editor state.
+/.plastic/
+/.idea/
+/.vs/
+/.vscode/
+/.gradle/
+/ExportedObj/
+/.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.opendb
+*.VC.db
+*.pidb
+*.pdb
+*.mdb
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Addressables keeps group/settings assets, but generated player content is rebuilt.
+/Assets/StreamingAssets/aa/
+/Assets/StreamingAssets/aa.meta
+/Assets/AddressableAssetsData/**/addressables_content_state.bin*
+
+# OS sidecars, temporary files, and crash diagnostics.
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+*.tmp
+*.dmp
+sysinfo.txt
+crashlytics-build.properties
+~UnityDirMonSyncFile~*

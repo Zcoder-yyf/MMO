@@ -1,0 +1,16 @@
+#if UNITY_SERVER || UNITY_EDITOR
+using System;
+using JKFrame;
+
+public class PlayerStateBase : StateBase
+{
+    protected PlayerController player;
+    public override void Init(IStateMachineOwner owner)
+    {
+        base.Init(owner);
+        player = (PlayerController)owner;
+    }
+}
+#endif
+
+

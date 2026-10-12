@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f2f90f967250e04482fd64f9996ad12, type: 3}
+  m_Name: MapConfig
+  m_EditorClassIdentifier: 
+  mapSize: {x: 12000, y: 12000}
+  terrainSize: 300
+  quadTreeSize: 19200
+  minQuadTreeNodeSize: 300
+  terrainMaxHeight: 200
+  terrainResKeyOffset: {x: 20, y: 20}

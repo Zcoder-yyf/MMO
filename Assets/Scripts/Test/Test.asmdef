@@ -1,0 +1,20 @@
+{
+    "name": "Test",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Netcode.Runtime",
+        "Server",
+        "JKFrame",
+        "Common",
+        "HotUpdate"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
